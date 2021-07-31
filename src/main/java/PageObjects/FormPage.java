@@ -10,7 +10,7 @@ public class FormPage {
         this.driver = driver;
     }
 
-    private By inputName = By.cssSelector("input#id_first_name");
+    private By inputName = By.cssSelector("#id_first_name");
     private By inputLastName = By.cssSelector("#id_last_name");
     private By inputEmail = By.cssSelector("#id_email");
     private By inputPhone = By.cssSelector("#id_phone");
