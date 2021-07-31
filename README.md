@@ -1,5 +1,5 @@
 Automat napisany z wykorzystaniem Selenium Webdriver oraz Javy.
-Automat uzupełnia poprawnymi danymi pola kroku 1 w formularzu "https://app.bluealert.pl/ba/form/formularz-testowy", a następnie przejść do kroku 2.
+Automat uzupełnia poprawnymi danymi pola kroku 1 w formularzu, a następnie przechodzi do kroku 2.
 
 Uruchomienie:
 1. Pobierz repozytorium
